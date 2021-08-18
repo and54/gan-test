@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "characters": "spongebob",
+        "image": "01.png",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 2,
+        "characters": "spongebob patrick star",
+        "image": "02.jpg",
+        "favorite": false,
+        "new": true
+    },
+    {
+        "id": 3,
+        "characters": "spongebob",
+        "image": "03.jpg",
+        "favorite": true,
+        "new": false
+    },
+    {
+        "id": 4,
+        "characters": "spongebob patrick star sandy cheeks",
+        "image": "04.jpg",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 5,
+        "characters": "spongebob",
+        "image": "05.jpg",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 6,
+        "characters": "spongebob",
+        "image": "06.jpg",
+        "favorite": true,
+        "new": false
+    },
+    {
+        "id": 7,
+        "characters": "spongebob",
+        "image": "07.jpg",
+        "favorite": false,
+        "new": true
+    },
+    {
+        "id": 8,
+        "characters": "krabs",
+        "image": "08.jpg",
+        "favorite": false,
+        "new": true
+    },
+    {
+        "id": 9,
+        "characters": "spongebob",
+        "image": "09.jpg",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 11,
+        "characters": "spongebob",
+        "image": "01.png",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 12,
+        "characters": "spongebob patrick star",
+        "image": "02.jpg",
+        "favorite": false,
+        "new": true
+    },
+    {
+        "id": 13,
+        "characters": "spongebob",
+        "image": "03.jpg",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 14,
+        "characters": "spongebob patrick star sandy cheeks",
+        "image": "04.jpg",
+        "favorite": false,
+        "new": true
+    },
+    {
+        "id": 15,
+        "characters": "spongebob",
+        "image": "05.jpg",
+        "favorite": true,
+        "new": false
+    },
+    {
+        "id": 16,
+        "characters": "spongebob",
+        "image": "06.jpg",
+        "favorite": false,
+        "new": true
+    },
+    {
+        "id": 17,
+        "characters": "spongebob",
+        "image": "07.jpg",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 18,
+        "characters": "krabs",
+        "image": "08.jpg",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 19,
+        "characters": "spongebob",
+        "image": "09.jpg",
+        "favorite": false,
+        "new": true
+    }
+]
